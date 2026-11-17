@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand — Primary  -->
+    <color name="maroon_primary">#7B1E1E</color>
+    <color name="maroon_primary_dark">#5C1414</color>
+    <color name="maroon_primary_light">#A33333</color>
+
+    <!-- Brand — Secondary -->
+    <color name="gold_secondary">#D4AF37</color>
+    <color name="gold_secondary_dark">#A8862A</color>
+    <color name="gold_secondary_light">#E8CE73</color>
+
+    <!-- Light theme) -->
+    <color name="surface_light">#FAF7F2</color>
+    <color name="surface_card_light">#FFFFFF</color>
+    <color name="on_surface_light">#1F1B18</color>
+    <color name="on_surface_variant_light">#6E635A</color>
+
+    <!-- Surface & Background  -->
+    <color name="surface_dark">#1A1614</color>
+    <color name="surface_card_dark">#2A2521</color>
+    <color name="on_surface_dark">#EDE7E0</color>
+    <color name="on_surface_variant_dark">#B8AFA5</color>
+
+    <!-- Semantic Colors -->
+    <color name="status_success">#2E7D32</color>
+    <color name="status_warning">#ED6C02</color>
+    <color name="status_error">#C62828</color>
+    <color name="status_info">#0277BD</color>
+
+    <!-- Neutrals -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="divider_gold">#33D4AF37</color>
+
+    <!-- defaults -->
+    <color name="purple_200">#A33333</color>
+    <color name="purple_500">#7B1E1E</color>
+    <color name="purple_700">#5C1414</color>
+    <color name="teal_200">#E8CE73</color>
+    <color name="teal_700">#A8862A</color>
+    <color name="black_overlay">#66000000</color>
+</resources>

@@ -1,0 +1,5 @@
+# Copy these lines into local.properties in the project root.
+# Keep your existing sdk.dir line if Android Studio generated one.
+# Find these in Supabase Dashboard -> Project Settings / Connect -> API.
+SUPABASE_URL=https://quyirpbauobvzrmsxcsa.supabase.co
+SUPABASE_ANON_KEY=YOUR_SUPABASE_PUBLISHABLE_OR_ANON_KEY

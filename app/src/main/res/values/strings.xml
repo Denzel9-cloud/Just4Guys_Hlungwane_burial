@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Hlungwane Burial</string>
+
+    <!-- Branding -->
+    <string name="brand_tagline">With you, every step of the way.</string>
+    <string name="brand_subtitle">Digital Client Onboarding &amp; Funeral Claims Management</string>
+
+    <!-- Common actions -->
+    <string name="action_login">Login</string>
+    <string name="action_register">Register</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_submit">Submit</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_save">Save</string>
+    <string name="action_next">Next</string>
+    <string name="action_back">Back</string>
+    <string name="action_continue">Continue</string>
+    <string name="action_view_all">View all</string>
+    <string name="action_contact_support">Contact Support</string>
+
+    <!-- Bottom nav -->
+    <string name="nav_home">Home</string>
+    <string name="nav_claims">Claims</string>
+    <string name="nav_notifications">Notifications</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Placeholder content for later steps -->
+    <string name="coming_soon">Coming soon</string>
+    <string name="loading">Loading…</string>
+    <string name="no_data">No data available</string>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+
+    <!-- Gold outer ring -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M60,8 A52,52 0 1,0 60,112 A52,52 0 1,0 60,8 Z M60,14 A46,46 0 1,1 60,106 A46,46 0 1,1 60,14 Z" />
+
+    <!-- H — vertical bar left -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M40,40 L46,40 L46,80 L40,80 Z" />
+
+    <!-- H — vertical bar right -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M56,40 L62,40 L62,80 L56,80 Z" />
+
+    <!-- H — horizontal crossbar -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M40,57 L62,57 L62,63 L40,63 Z" />
+
+    <!-- B — vertical bar -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M66,40 L72,40 L72,80 L66,80 Z" />
+
+    <!-- B — upper bump (top-right) -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M70,40 L78,40 C 84,40 84,50 78,50 L70,50 Z M70,44 L76,44 C 79,44 79,46 76,46 L70,46 Z" />
+
+    <!-- B — lower bump (bottom-right, larger) -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M70,55 L80,55 C 88,55 88,80 80,80 L70,80 Z M70,59 L78,59 C 83,59 83,76 78,76 L70,76 Z" />
+</vector>
